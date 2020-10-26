@@ -30,8 +30,8 @@
                 <div class="border"></div>
             </h2>
             <div class="s-m">
-                <a href="#" class="fab fa-github"></a>            
-                <a href="#" class="fab fa-linkedin-in"></a> 
+                <a target="_blank" href="https://github.com/Josep1990" class="fab fa-github"></a>            
+                <a target="_blank" href="https://www.linkedin.com/in/jos%C3%A9-paulo-gon%C3%A7alves-b7998029/" class="fab fa-linkedin-in"></a> 
             </div>
         </div>        
     </div> 

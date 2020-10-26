@@ -1,0 +1,12 @@
+Hello John,
+
+Here are my links to the github repo and gitpod workspace
+
+GitHub: https://github.com/Josep1990/WebDevCA
+
+GitPod: https://4000-e7d9dc8b-9745-4175-834f-4fbfe275db79.ws-eu01.gitpod.io/
+
+
+My website design was based on the single pages website with different sections instead of multiple pages, but owrk the same as any other websites
+I you will see the links to the sections as you would see the links to the other pages in others website.
+Thank you and I hope you like it.
